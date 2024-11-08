@@ -1,0 +1,255 @@
+#banner
+{
+    background: linear-gradient(rgba(0,0,0,0.5),#F7F5E6), url(images/Best-Free-Resume-Builder.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: #F7F5E6;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.banner
+{
+    background: linear-gradient(rgba(0,0,0,0.5),#F7F5E6), url(images/Background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+#navbar
+{
+    width:100%;
+    height: 50px;
+    background-color:rgba(82,101,143,0.5);
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.login
+{
+    padding: 10px;
+    height: 15px;
+    width: 70px; ;
+    background-color:rgb(51, 58, 86);
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+.login a{
+    text-decoration: none;
+    color: white;
+}
+.sign a{
+    text-decoration: none;
+}
+.sign
+{
+    padding: 10px;
+    height: 15px;
+    width: 70px; ;
+    background-color:rgb(255, 255, 255);
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    /* font-size: 12px; */
+}
+.login p{
+    font-size: 15px;
+    font-weight: bold;
+    /* color: ; */
+}
+.sign p
+{
+    font-size: 15px;
+    color: rgb(51, 58, 86);
+    font-weight: bold;
+}
+.navele
+{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+.logo
+{
+    width: 300px;
+    top: 4%;
+    left: 4% ;
+    position: absolute;
+
+}
+
+.bannerText
+{
+    text-align: left;
+    color: black;
+    padding-top: 180px;
+    /* left: 3%; */
+    padding-left: 3%;
+}
+.bannerText h1
+{
+    font-size: 140px;
+}
+.bannerText p
+{
+    font-size: 35px;
+    /* width: 600px; */
+    right: 250px;
+    font-weight: lighter;
+}
+.banner-style
+{
+    display: flex;
+    flex-direction: row;
+}
+.banneranimi dotlottie-player
+{
+    align-self: end;
+    /* justify-content: end;
+     */
+     width: 400px; ;
+}
+.banner-btn
+{
+    margin: 70px auto 0;
+}
+.banner-btn a
+{
+    width: 200px;
+    text-decoration: none;
+    background-color: #333A56;
+    color: white;
+    padding: 12px 12px;
+    border-radius: 5px;
+    /* display: inline-block; */
+    margin-left: 30px;
+    font-size: 25px;
+}
+.Topic1
+{
+    padding-left:3%;
+    /* left: 3%; */
+}
+.Topic1 h1
+{
+    font-size: 45px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.Layout1
+{
+    display: flex;
+    flex-direction: row;
+}
+.Layout1 p
+{
+    width: 600px; 
+    font-size: 30px;
+    padding-left: 20%;
+    line-height: 126%;
+    padding-top: 20px;
+}
+.Topic2
+{
+    padding-left:3%;
+    /* left: 3%; */
+}
+.Topic2 h1
+{
+    font-size: 45px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.Layout2
+{
+    display: flex;
+    flex-direction: row;
+}
+.Layout2 p
+{
+    width: 650px; 
+    font-size: 30px;
+    padding-left: 0%;
+    line-height: 125%;
+    padding-top: 20px;
+}
+.btndwn
+{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.create-resume
+{
+    background-color: #333a56;
+    width: 300px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 40px;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+.create-resume a{
+    text-decoration:none;
+    color: white;
+}
+.footer
+{
+    background-color:#333a56;
+    width: 100%;
+    height: 260px;
+    margin: 20px;
+    /* padding: 10px; */
+
+}
+.footer1st
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    align-items: start;
+    padding-left: 10px;
+}
+.footer2nd
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+
+}
+.footer2nd h4
+{
+    font-size: 28px;
+}
