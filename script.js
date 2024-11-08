@@ -1,6 +1,7 @@
 
 
 // form repeater
+// window.location.href="http://192.168.82.61:8501"
 $(document).ready(function(){
     $('.repeater').repeater({
         initEmpty: false,
