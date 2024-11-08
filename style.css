@@ -50,11 +50,11 @@ body
     border-radius: 8px;
 }
 .login a{
-    text-decoration: none;
+    /* text-decoration: none; */
     color: white;
 }
 .sign a{
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 .sign
 {
